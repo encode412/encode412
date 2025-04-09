@@ -4,6 +4,6 @@
 - 💻 I work using: React React Native Next Tailwind Css Material UI GitHub
 - ⚙️ I also use and work: HTML5 CSS3 Bootstrap
 - 💫 I’m looking to collaborate on Projects
-- 📫 How to reach me: encode.dev.tech@gmail.com | | https://encodedev.netlify.app
+- 📫 How to reach me: encode.dev.tech@gmail.com | | https://timstack.dev
 
 
